@@ -6,6 +6,8 @@ cereal
 AAA eggs
 yogurt
 chocolate icecream
+lemons
+limes
 navel oranges
 red grapes
 orange juice
