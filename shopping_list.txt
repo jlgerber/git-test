@@ -7,7 +7,7 @@ AAA eggs
 yogurt
 chocolate icecream
 meyer lemons
-limes
+key limes
 navel oranges
 red grapes
 orange juice
