@@ -6,7 +6,7 @@ cereal
 AAA eggs
 yogurt
 chocolate icecream
-lemons
+meyer lemons
 limes
 navel oranges
 red grapes
